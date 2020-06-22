@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "districts_id": "47",
+    "name": "Uttara"
+  },
+  {
+    "id": "2",
+    "districts_id": "47",
+    "name": "Gulshan"
+  },
+  {
+    "id": "3",
+    "districts_id": "47",
+    "name": "Eliphant Road"
+  },
+  {
+    "id": "4",
+    "districts_id": "47",
+    "name": "Siddique Bazar"
+  },
+  {
+    "id": "5",
+    "districts_id": "47",
+    "name": "Dhanmondi"
+  },
+  {
+    "id": "6",
+    "districts_id": "47",
+    "name": "Malitola"
+  },
+  {
+    "id": "7",
+    "districts_id": "47",
+    "name": "Kamarpara"
+  }
+]

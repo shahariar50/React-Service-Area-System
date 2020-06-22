@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "thana_id": "1",
+    "address": "H#1; R#2; Sec#9",
+    "phone_no": ["01936003008", "01936003009"],
+    "condition": false,
+    "non_condition": true
+  },
+  {
+    "id": "2",
+    "thana_id": "2",
+    "address": "D.C.C market 2th floor",
+    "phone_no": ["01936003025", "01936003091"],
+    "condition": false,
+    "non_condition": false
+  },
+  {
+    "id": "3",
+    "thana_id": "3",
+    "address": "74 coffee house (backside) infront of multiplan",
+    "phone_no": ["1936003090"],
+    "condition": false,
+    "non_condition": false
+  },
+  {
+    "id": "4",
+    "thana_id": "4",
+    "address": "180, Siddique Bazar, (under brack bank) North South Road",
+    "phone_no": ["01819117079"],
+    "condition": false,
+    "non_condition": false
+  },
+  {
+    "id": "5",
+    "thana_id": "5",
+    "address": "Road-9/A, Minabazar",
+    "phone_no": ["01963603075", "01936003229"],
+    "condition": false,
+    "non_condition": false
+  },
+  {
+    "id": "6",
+    "thana_id": "6",
+    "address": "102, Shahid Sayed Nazrul Islam Sarani, Nawabpur",
+    "phone_no": ["01936003106"],
+    "condition": false,
+    "non_condition": false
+  },
+  {
+    "id": "7",
+    "thana_id": "7",
+    "address": "Dhour Chourasta, North Kamarpara",
+    "phone_no": ["01936003130"],
+    "condition": false,
+    "non_condition": false
+  }
+]
