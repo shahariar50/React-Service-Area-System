@@ -54,5 +54,13 @@
     "phone_no": ["01936003130"],
     "condition": false,
     "non_condition": false
+  },
+  {
+    "id": "8",
+    "thana_id": "8",
+    "address": "Dhour Chourasta, North Kamarpara",
+    "phone_no": ["01936003066", "01936003067"],
+    "condition": false,
+    "non_condition": false
   }
 ]

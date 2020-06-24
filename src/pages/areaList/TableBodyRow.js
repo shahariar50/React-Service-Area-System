@@ -1,5 +1,7 @@
 import React from "react";
 import { TableRow, TableCell } from "@material-ui/core";
+import CheckBoxIcon from "@material-ui/icons/CheckBox";
+import CheckBoxOutlineBlankIcon from "@material-ui/icons/CheckBoxOutlineBlank";
 
 const TableBodyRow = ({ office, index }) => {
   const phoneLength = office.contact_no.length;
@@ -17,8 +19,12 @@ const TableBodyRow = ({ office, index }) => {
           </span>
         ))}
       </TableCell>
-      <TableCell>{office.condition ? "True" : "False"}</TableCell>
-      <TableCell>{office.non_condition ? "True" : "False"}</TableCell>
+      <TableCell align="center">
+        {office.condition ? <CheckBoxIcon /> : <CheckBoxOutlineBlankIcon />}
+      </TableCell>
+      <TableCell align="center">
+        {office.non_condition ? <CheckBoxIcon /> : <CheckBoxOutlineBlankIcon />}
+      </TableCell>
     </TableRow>
   );
 };

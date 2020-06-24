@@ -33,5 +33,65 @@
     "id": "7",
     "districts_id": "47",
     "name": "Kamarpara"
+  },
+  {
+    "id": "8",
+    "districts_id": "47",
+    "name": "Dilkusha"
+  },
+  {
+    "id": "9",
+    "districts_id": "47",
+    "name": "Kallyanpur"
+  },
+  {
+    "id": "10",
+    "districts_id": "47",
+    "name": "Karwan Bazar"
+  },
+  {
+    "id": "11",
+    "districts_id": "47",
+    "name": "Mirpur 10"
+  },
+  {
+    "id": "12",
+    "districts_id": "47",
+    "name": "Victoria Park"
+  },
+  {
+    "id": "13",
+    "districts_id": "47",
+    "name": "Jatrabari"
+  },
+  {
+    "id": "14",
+    "districts_id": "47",
+    "name": "Mutaleb Plaza"
+  },
+  {
+    "id": "15",
+    "districts_id": "47",
+    "name": "Chamelibag"
+  },
+  {
+    "id": "16",
+    "districts_id": "47",
+    "name": "Farmgate"
+  },
+  {
+    "id": "17",
+    "districts_id": "47",
+    "name": "Shyamoli"
+  },
+  {
+    "id": "18",
+    "districts_id": "47",
+    "name": "Savar"
+  },
+  {
+    "id": "19",
+    "districts_id": "47",
+    "name": "EPZ(Dhaka)"
   }
 ]
